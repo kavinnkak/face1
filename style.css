@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+    color: white;
+}
+
+
+
+
+
+h3{
+    background-color: rgb(19, 97, 165);
+    width: 65%;
+}
+
+#camera{
+    border: black dashed;
+    height: 300;
+    width: 300;
+}
